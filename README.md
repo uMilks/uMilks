@@ -19,6 +19,7 @@
 <div style="display: inline-block">
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="50">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1024px-Flutter_logo.svg.png" width="50">
 </div>
 
 ---
