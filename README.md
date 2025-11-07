@@ -9,6 +9,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" width="50">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="50">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png" width="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="50">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" width="50">
  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/gamemaker-98kqzlyi1frrscfd07vfi.png/gamemaker-os7p0j98mgnwmrd3pzgoof.png?_a=DATAg1AAZAA0" width="50">
 </div>
@@ -17,6 +19,7 @@
 
 ### Learning:
 <div style="display: inline-block">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50">
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="50">
 </div>
